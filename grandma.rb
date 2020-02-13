@@ -1,6 +1,3 @@
 def speak_to_grandma(phrase)
-  if 
+  if phrase
     
-  else 
-  
-end 
